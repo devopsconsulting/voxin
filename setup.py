@@ -13,7 +13,7 @@ setup(
     description="A tornado example.",
     long_description="Ik heet voxin",
     classifiers=[],
-    keywords='',
+    keywords='onzin',
     author='Lars van de Kerkhof',
     author_email='lars@permanentmarkers.nl',
     url='https://github.dtc.avira.com/VDT/mockengine',
