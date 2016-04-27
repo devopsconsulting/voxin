@@ -25,7 +25,7 @@ setup(
     zip_safe=False,
     # specify dependencies
     install_requires=[
-        'distribute',
+        'setuptools',
         'argparse',
         'tornado',
     ],
