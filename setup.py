@@ -7,7 +7,7 @@ __version__ = "0.0.1"
 
 setup(
     # package name in pypi
-    name='voxin',
+    name='voxin.random',
     # extract version from module.
     version=__version__,
     description="A tornado example.",
